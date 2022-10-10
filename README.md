@@ -1,6 +1,7 @@
 # Требования к проекту 
 # Содержание 
  0 [Глоссарий](https://github.com/Ltins/TRITPO-lab2/blob/main/README.md#0-глоссарий)
+ 
  1 [Введение](https://github.com/Ltins/TRITPO-lab2/blob/main/README.md#1-введение)
  1.1 [Название продукта](https://github.com/Ltins/TRITPO-lab2/blob/main/README.md#11-название-продукта)
  1.2 [Назначение документа](https://github.com/Ltins/TRITPO-lab2/blob/main/README.md#12-назначение-документа)
